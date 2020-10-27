@@ -1,0 +1,1 @@
+this is a first commit i am going to do from intelliJ to git
